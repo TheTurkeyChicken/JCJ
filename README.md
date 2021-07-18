@@ -7,7 +7,7 @@ just a suggestion guys, but i think that it would be cool if we put each class's
 
 
 
-## Business Idea: Justin's
+# Business Idea: Justin's
 
  I already have a Discord bot, and have experience with making one.
 
