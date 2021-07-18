@@ -29,3 +29,26 @@ As for the actual idea of the business itself, I really have no idea at the mome
 1. An app that is essentially a group chat for students who can discuss classwork, and collaborate remotely
 
 I think this would be great because from personal expirience this app would be extremely beneficial and helpful. Many students are struggling with work because they don't get enough help from teachers and peers, this app will solve that.
+
+
+
+# Julia's Actions:
+
+Research on interested topics that combine #2 & #4. Do market research (audience, users). 
+
+If there are already competitor apps/websites doing similar jobs, recognize them.
+
+How would we generate revenue from our app?
+
+
+
+# Justin's Actions:
+
+What will the app look like? Website? Mobile App? Both? Target? Research on the media that the customers use.
+
+
+
+# Chris' Actions:
+
+What database will we use to build this app? Choose ones that are specific to the media/devices.
+
