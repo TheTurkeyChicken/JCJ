@@ -24,3 +24,8 @@ As for the actual idea of the business itself, I really have no idea at the mome
 1. Create a business to help make living more convienient and efficient.
 2. Create a business to inform and alert others on specific news.
 3. Create a business where people can interact with one another.
+
+# Chris's business Ideas
+1. An app that is essentially a group chat for students who can discuss classwork, and collaborate remotely
+
+I think this would be great because from personal expirience this app would be extremely beneficial and helpful. Many students are struggling with work because they don't get enough help from teachers and peers, this app will solve that.
