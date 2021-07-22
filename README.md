@@ -34,11 +34,14 @@ I think this would be great because from personal expirience this app would be e
 
 Research on interested topics that combine #2 & #4. Do market research (audience, users). 
 
+
 If there are already competitor apps/websites doing similar jobs, recognize them.
+
+There are of course existig competitors who do similar tasks as what we want to accomplish such as Fiveable, Google Docs, etc. The difference that we want to make is that it is going to be an independent app where anyone can share their notes and not just the 'teachers' or people qualified. Additionally, anyone can view it as well, unlike Google Drive where it is access limited to only a link. Lastly, our app provides a good communication source because users are allowed to post comments and text each other.
 
 How would we generate revenue from our app?
 
-
+When we get bigger, we can incorporate ads into the website. The more users we get, the more revenue we generate. We can have subscriptions and sponsorships where people pay money monthly and are able to premium features such as access to prestigious professors' notes, study packs, tips, etc.
 
 # Justin's Actions:
 
