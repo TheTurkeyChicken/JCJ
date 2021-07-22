@@ -65,3 +65,40 @@ What will the app look like? Website? Mobile App? Both? Target? Research on the 
 
 What database will we use to build this app? Choose ones that are specific to the media/devices.
 
+- website
+  - most likely we will need a database to store user accounts and other information
+  - we can use a SQL server to do this:
+    - https://www.microsoft.com/en-ca/sql-server/sql-server-downloads
+    - we will set up the server on someones computer
+    - we will make some sort of array or table to store information (it will look something like this):
+
+      -------------------------------------------------------------------
+      |   username    |    password    |      email      |      DOB     |
+      -------------------------------------------------------------------
+      |    chris123   |     myPass     | chris@gmail.com |  2000-01-01  |
+      |    julia456   |     myPass     | julia@gmail.com |  2000-01-02  |
+      |   justin567   |     myPass     | justin@gmail.com|  2000-01-03  |
+      -------------------------------------------------------------------
+  - for the back-end coding we have muliple options such as:
+    - PHP
+    - JavaScript
+    - React.js
+    - Python
+    - HTML
+  - I believe that we all have a little bit of expirience with these languages so when we start coding we should be comfortable
+
+  (side thought: I think we should split the coding evenly amongst the 3 of us so we can do as much work as possible and then we can troubleshoot each others code)
+
+  I agree with justin that we should be using a website first then transitioning to apps because website are available on almost all platforms. Phones, laptops and sometimes even smart tv's. Website will allow us to expand our business the most.
+
+  If use HTML, we can style our website with CSS and make it look very aesthetic and clean. Something like this will make the website more attractive:
+
+  https://i.ytimg.com/vi/AKNvTxWOdKw/maxresdefault.jpg
+
+  - Overall there are many options we can choose to build our website but we should keep it simple and stupid.
+
+
+
+
+
+
