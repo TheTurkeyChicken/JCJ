@@ -44,6 +44,21 @@ How would we generate revenue from our app?
 
 What will the app look like? Website? Mobile App? Both? Target? Research on the media that the customers use.
 
+- For website:
+  - Perhaps a website would be a better way to kickstart the app, as it would be more straightforward to create
+  - There would not be a hassle to learn all of the issues that may come with compatibility with IOS
+  - Less hassle: will not have to be enrolled in Apple's Developer Program, will not have to undergo an app certification process, and follow other guidelines that comes with publishing an app.
+  - Less to worry about in general
+- For app:
+  - Will not need a strong central database for idea #2
+  - Some people will prefer using apps on their phones instead of websites on their computers.
+
+- I asked in my grade's Discord what medium they would prefer for a scheduling app:
+  - Most people answered that they preferred using a website, however, this inclination may be misleading.
+  - WPGA (my school) in the last year banned all Grade 8-9's from using phones at any time during school hours.
+  - Though my school and my grade in particular may prefer using computers for a website, this may be an isolated case.
+- With those points in mind, I believe that the best course of action is to kickstart divvynotes with creating first, a working and stable website, which would be mostly free of the hassles that comes with developing mobile apps. After that, perhaps we could extend further and open the windows to mobile users as well.
+
 
 
 # Chris' Actions:
