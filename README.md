@@ -73,9 +73,13 @@ What database will we use to build this app? Choose ones that are specific to th
   - most likely we will need a database to store user accounts and other information
   - we can use a SQL server to do this:
     - https://www.microsoft.com/en-ca/sql-server/sql-server-downloads
+    
     - we will set up the server on someones computer
-    - we will make some sort of array or table to store information (it will look something like this):
 
+    - we will make some sort of array or table to store information (it will look something like this):
+    
+    - (this comment is from justin: having worked with a discord bot before which stores data, you really need a userid that comes in the form of a number, which has nothing to do with the front-end, but this would make work on the back-end so much easier)
+    
       -------------------------------------------------------------------
       |   username    |    password    |      email      |      DOB     |
       -------------------------------------------------------------------
