@@ -34,6 +34,7 @@ I think this would be great because from personal expirience this app would be e
 
 Research on interested topics that combine #2 & #4. Do market research (audience, users). 
 
+For users, I would say high school and university students specifically students who are looking for notes on specific subjects. Personally, when I was taking the AP exams, I struggled to find a reliable website that I could find notes for all my subjects on. This might have been a similar problem for others such as SAT, MCAT, and other AP takers. Around 1.24 million people in the class of 2018 took the aps, therefore, there will be no problem as there are constantly people looking for notes to share and learn from. Additionally, students in school and university who aren't taking extracourses can find specific notes to their grade level as well as get first hand experience on what APs are like.
 
 If there are already competitor apps/websites doing similar jobs, recognize them.
 
@@ -104,6 +105,14 @@ What database will we use to build this app? Choose ones that are specific to th
   https://i.ytimg.com/vi/AKNvTxWOdKw/maxresdefault.jpg
   
   - Overall there are many options we can choose to build our website but we should keep it simple and stupid.
+
+
+
+# Confidence Level: 4
+
+# Software/Format: HTML -> Website || Website && App
+
+
 
 
 
