@@ -4,6 +4,12 @@ Please follow the format of making header1 for the date, and header2 for the wor
 
 Furthermore, put new tasks onto the top, so older work will get pushed down.
 
+# 08/08/2021:
+
+## Justin's Work:
+
+Make your Github Page look nicer than the default.
+
 # 07/25/2021:
 
 ## Justin's Work: 
