@@ -4,6 +4,16 @@ Please follow the format of making header1 for the date, and header2 for the wor
 
 Furthermore, put new tasks onto the top, so older work will get pushed down.
 
+# 08/16/2021:
+
+## Everyone:
+
+Each person is to make a post to the divvynotes website, and set a discipline for the sharing of work.
+
+## Justin's Work:
+
+Book a session sometime this week to make the divvynotes site look better.
+
 # 08/08/2021:
 
 ## Justin's Work:
