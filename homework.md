@@ -4,6 +4,14 @@ Please follow the format of making header1 for the date, and header2 for the wor
 
 Furthermore, put new tasks onto the top, so older work will get pushed down.
 
+
+
+# 08/22/2021:
+
+## Everyone:
+
+Each person is to create a post, in sourceHexo.
+
 # 08/16/2021:
 
 ## Everyone:
