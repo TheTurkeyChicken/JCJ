@@ -6,6 +6,12 @@ Furthermore, put new tasks onto the top, so older work will get pushed down.
 
 
 
+# 08/29/2021:
+
+## Chris:
+
+Book a meeting for all mom's, to inform them that the company to be registered will cost ~$430.
+
 # 08/22/2021:
 
 ## Everyone:
