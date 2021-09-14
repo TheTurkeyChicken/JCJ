@@ -2,6 +2,8 @@ Email: teamstartup2021@gmail.com
 
 Password: `divvynotes2021`
 
+Phone: 778-896-6906
+
 ---
 
 Client secret for divvynotes gitalk application: (https://github.com/settings/applications/1703480)
