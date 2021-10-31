@@ -1,8 +1,14 @@
 Email: teamstartup2021@gmail.com
 
-Password: `divvynotes2021`
+Password for gmail, github, and default password where service provider does not add restrictions: `divvynotes2021`
 
 Phone: 778-896-6906
+
+---
+
+Bluehost domain: divvynotes.com
+
+Password: `Teamstartup=2021`
 
 ---
 
