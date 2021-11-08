@@ -6,6 +6,16 @@ Furthermore, put new tasks onto the top, so older work will get pushed down.
 
 
 
+# 08/29/2021:
+
+## Justin:
+
+Try different things with making the website more professional. For example, add comment section etc..
+
+## Chris:
+
+Book a meeting for all mom's, to inform them that the company to be registered will cost ~$430.
+
 # 08/22/2021:
 
 ## Everyone:
