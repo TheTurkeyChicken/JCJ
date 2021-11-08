@@ -8,7 +8,7 @@ Phone: 778-896-6906
 
 Bluehost domain: divvynotes.com
 
-Password: `Teamstartup=2021`
+Bluehost and Wordpress Password: `Teamstartup=2021`
 
 ---
 
