@@ -16,3 +16,8 @@ Client secret for divvynotes gitalk application: (https://github.com/settings/ap
 
 `a0d95f3a4b71632c7b749b1f87a106d802c3690e`
 
+giphy account:
+
+email: teamstartup2021@gmail.com
+
+pass: Divvynotes2021
