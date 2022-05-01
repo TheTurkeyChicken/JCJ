@@ -1,6 +1,8 @@
 Email: teamstartup2021@gmail.com
 
-Password for gmail, github, and default password where service provider does not add restrictions: `divvynotes2021`
+Password for gmail: `Divvy=2021`
+
+ github, and default password where service provider does not add restrictions: `teamstartup2021`
 
 Phone: 778-896-6906
 
